@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @calebhove
 - 👀 I’m interested in Web development & Web design
 - 🌱 I’m currently learning the above
-- 💞️ I’m looking to collaborate on Designs
+- 💞️ I’m looking to collaborate on Designs & code
 - 📫 How to reach me on instagram as caleb_k.t
 
 <!---
